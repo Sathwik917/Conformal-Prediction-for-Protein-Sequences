@@ -1,0 +1,51 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CDKL1_HUMAN/5-288    -          PF00069_muscle_out   -              2e-87  283.9   0.0   2.3e-87  283.7   0.0   1.0   1   0   0   1   1   1   1 -
+KIN82_YEAST/324-602  -          PF00069_muscle_out   -            5.5e-87  282.5   0.1     7e-87  282.2   0.1   1.1   1   0   0   1   1   1   1 -
+BUR1_YEAST/60-366    -          PF00069_muscle_out   -            9.2e-86  278.5   0.0     1e-85  278.3   0.0   1.0   1   0   0   1   1   1   1 -
+I1MG96_SOYBN/4-287   -          PF00069_muscle_out   -              2e-85  277.4   0.0   2.2e-85  277.2   0.0   1.0   1   0   0   1   1   1   1 -
+RAD53_YEAST/198-466  -          PF00069_muscle_out   -            3.2e-85  276.7   0.0   4.1e-85  276.4   0.0   1.0   1   0   0   1   1   1   1 -
+PHKG2_RAT/24-291     -          PF00069_muscle_out   -            1.3e-84  274.7   0.0   1.5e-84  274.5   0.0   1.0   1   0   0   1   1   1   1 -
+MAK_RAT/4-284        -          PF00069_muscle_out   -            4.5e-83  269.7   0.0   5.2e-83  269.5   0.0   1.0   1   0   0   1   1   1   1 -
+CTK1_YEAST/183-469   -          PF00069_muscle_out   -              1e-82  268.5   0.2   1.2e-82  268.3   0.2   1.0   1   0   0   1   1   1   1 -
+KS6A1_MOUSE/407-664  -          PF00069_muscle_out   -            1.2e-82  268.3   0.0   1.4e-82  268.1   0.0   1.0   1   0   0   1   1   1   1 -
+MYLK_CHICK/1453-1708 -          PF00069_muscle_out   -            1.9e-82  267.6   0.0   2.1e-82  267.5   0.0   1.0   1   0   0   1   1   1   1 -
+KCC4_MOUSE/42-296    -          PF00069_muscle_out   -            3.2e-82  266.9   0.0   3.5e-82  266.8   0.0   1.0   1   0   0   1   1   1   1 -
+AKT1_HUMAN/150-408   -          PF00069_muscle_out   -            3.3e-81  263.5   0.0   3.7e-81  263.4   0.0   1.0   1   0   0   1   1   1   1 -
+CDC5_YEAST/82-337    -          PF00069_muscle_out   -            5.5e-81  262.8   0.0   6.2e-81  262.7   0.0   1.0   1   0   0   1   1   1   1 -
+CDPK_SOYBN/34-292    -          PF00069_muscle_out   -            1.3e-80  261.6   0.0   1.5e-80  261.4   0.0   1.0   1   0   0   1   1   1   1 -
+STE20_YEAST/620-871  -          PF00069_muscle_out   -            7.4e-80  259.1   0.0   8.3e-80  259.0   0.0   1.0   1   0   0   1   1   1   1 -
+FUSED_DROME/4-254    -          PF00069_muscle_out   -            8.4e-80  259.0   0.0   9.3e-80  258.8   0.0   1.0   1   0   0   1   1   1   1 -
+KIN28_YEAST/7-290    -          PF00069_muscle_out   -              1e-79  258.7   0.0   1.3e-79  258.4   0.0   1.1   1   0   0   1   1   1   1 -
+PKD1_DICDI/334-589   -          PF00069_muscle_out   -            2.2e-79  257.6   0.1   2.4e-79  257.4   0.1   1.0   1   0   0   1   1   1   1 -
+BYR2_SCHPO/394-658   -          PF00069_muscle_out   -            5.7e-79  256.2   0.0   6.3e-79  256.1   0.0   1.0   1   0   0   1   1   1   1 -
+KGP1_DROME/457-717   -          PF00069_muscle_out   -            1.5e-78  254.9   0.0   1.6e-78  254.8   0.0   1.0   1   0   0   1   1   1   1 -
+Q8I534_PLAF7/111-364 -          PF00069_muscle_out   -            1.6e-78  254.7   0.1   1.8e-78  254.6   0.1   1.0   1   0   0   1   1   1   1 -
+CDC15_YEAST/25-272   -          PF00069_muscle_out   -            3.5e-78  253.7   0.1   3.9e-78  253.5   0.1   1.0   1   0   0   1   1   1   1 -
+STE7_YEAST/191-466   -          PF00069_muscle_out   -            7.4e-78  252.6   0.1   8.7e-78  252.4   0.1   1.1   1   0   0   1   1   1   1 -
+MKK1_YEAST/221-488   -          PF00069_muscle_out   -              9e-77  249.0   0.0     1e-76  248.9   0.0   1.0   1   0   0   1   1   1   1 -
+MK04_HUMAN/20-312    -          PF00069_muscle_out   -            1.9e-76  248.0   0.0   2.2e-76  247.7   0.0   1.1   1   0   0   1   1   1   1 -
+CDR1_SCHPO/12-258    -          PF00069_muscle_out   -            1.2e-75  245.3   0.0   1.4e-75  245.2   0.0   1.0   1   0   0   1   1   1   1 -
+CSK21_CHICK/39-324   -          PF00069_muscle_out   -            1.7e-75  244.8   0.3     2e-75  244.6   0.3   1.0   1   0   0   1   1   1   1 -
+TTK_HUMAN/525-791    -          PF00069_muscle_out   -            2.3e-75  244.4   1.0   2.6e-75  244.2   1.0   1.0   1   0   0   1   1   1   1 -
+ARBK1_BOVIN/191-453  -          PF00069_muscle_out   -            2.6e-75  244.2   0.0   2.9e-75  244.1   0.0   1.0   1   0   0   1   1   1   1 -
+GSK3A_RAT/119-403    -          PF00069_muscle_out   -            9.2e-74  239.2   0.0     1e-73  239.0   0.0   1.0   1   0   0   1   1   1   1 -
+CHK1_SCHPO/10-272    -          PF00069_muscle_out   -            1.4e-73  238.5   0.0   1.6e-73  238.4   0.0   1.0   1   0   0   1   1   1   1 -
+PSK1_YEAST/1096-1354 -          PF00069_muscle_out   -            8.5e-72  232.7   0.0   9.5e-72  232.6   0.0   1.0   1   0   0   1   1   1   1 -
+M3K9_HUMAN/144-403   -          PF00069_muscle_out   -            5.7e-69  223.5   0.0   6.2e-69  223.3   0.0   1.0   1   0   0   1   1   1   1 -
+PIM1_HUMAN/38-290    -          PF00069_muscle_out   -            5.8e-69  223.4   0.0   6.7e-69  223.2   0.0   1.0   1   0   0   1   1   1   1 -
+BYR1_SCHPO/66-320    -          PF00069_muscle_out   -            7.2e-69  223.1   0.0   8.1e-69  223.0   0.0   1.0   1   0   0   1   1   1   1 -
+WEE1_HUMAN/299-569   -          PF00069_muscle_out   -            1.1e-65  212.7   0.0   1.2e-65  212.6   0.0   1.0   1   0   0   1   1   1   1 -
+KPRO_MAIZE/534-810   -          PF00069_muscle_out   -            1.9e-63  205.4   0.0   2.1e-63  205.2   0.0   1.0   1   0   0   1   1   1   1 -
+F7CJC0_CALJA/349-568 -          PF00069_muscle_out   -            2.8e-43  139.3   0.0   6.8e-23   72.5   0.0   2.0   1   1   1   2   2   2   2 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      PF00069_hmmbuild_out.hmm
+# Target file:     PF00069_seed.txt
+# Option settings: hmmsearch --tblout PF00069_hmmsearch_out PF00069_hmmbuild_out.hmm PF00069_seed.txt 
+# Current dir:     /home/cim/pgt/mjac240/project
+# Date:            Thu Nov 11 22:15:44 2021
+# [ok]
